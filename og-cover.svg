@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#222725"/>
+  <path d="M780 0v630M900 0v630M1020 0v630M1140 0v630M740 125h460M740 250h460M740 375h460M740 500h460" stroke="#eee8de" stroke-opacity=".12"/>
+  <path d="M54 72h77v6H54z" fill="#c76c4b"/>
+  <text x="54" y="250" font-family="Arial, sans-serif" font-weight="800" font-size="110" letter-spacing="-6" fill="#f2eee5">EZEQUIEL</text>
+  <text x="54" y="366" font-family="Arial, sans-serif" font-weight="800" font-size="110" letter-spacing="-6" fill="#f2eee5">ZAPATA.</text>
+  <path d="M54 426h520" stroke="#f2eee5" stroke-opacity=".35"/>
+  <text x="54" y="476" font-family="Arial, sans-serif" font-weight="600" font-size="23" letter-spacing="4" fill="#e3ddd2">CONSTRUCCIÓN · ALBAÑILERÍA · REFACCIONES</text>
+  <text x="54" y="557" font-family="Arial, sans-serif" font-size="22" fill="#b9b7af">Villa Constitución y alrededores</text>
+  <path d="M1110 510v56h-56" fill="none" stroke="#c76c4b" stroke-width="6"/>
+</svg>
